@@ -1,20 +1,20 @@
 Flask==3.1.1
+python-dotenv==1.1.0
 
 langchain==0.3.26
 langchain-core==0.3.66
 langchain-community==0.3.26
 langchain-text-splitters==0.3.8
+langchain-google-genai==2.1.6
 langchain-pinecone==0.2.8
-langchain-google-genai==2.1.10
 
 pinecone==7.3.0
 
-sentence-transformers==5.1.0
-transformers==4.55.4
-torch>=2.2.0
+sentence-transformers==4.1.0
+transformers==4.57.6
+torch==2.11.0
 
-pypdf==6.0.0
-python-dotenv==1.1.1
+pypdf==5.6.1
 
-numpy==2.3.2
-requests==2.32.5
+numpy==2.4.4
+requests==2.33.1
