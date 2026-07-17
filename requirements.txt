@@ -8,7 +8,7 @@ langchain-text-splitters==0.3.8
 langchain-google-genai==2.1.6
 langchain-pinecone==0.2.8
 langchain-pinecone==0.2.8
-gunicorn
+gunicorn==23.0.0
 
 pinecone==7.3.0
 
